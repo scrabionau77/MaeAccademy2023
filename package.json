@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/scrabionau77/MaeAccademy2023#readme",
   "dependencies": {
-    "jquery": "^3.6.3"
+    "jquery": "^3.6.3",
+    "requirejs": "^2.3.6",
+    "tui-calendar": "^1.15.3"
   }
 }
